@@ -7,12 +7,12 @@
 @prefix prov: <http://www.w3.org/ns/prov#> .
 @prefix emsenn: <https://emsenn.net/vocab#> .
 
-&lt;https://emsenn.net/blog/2025-12-15-anxious-intellectuals-with-an-audience/>
-  rdf:type schema:Article ;
-  schema:url &lt;https://emsenn.net/blog/2025-12-15-anxious-intellectuals-with-an-audience/> ;
+<https://emsenn.net/blog/2025-12-15-anxious-intellectuals-with-an-audience/>
+  rdf:type schema:BlogPosting ;
+  schema:url <https://emsenn.net/blog/2025-12-15-anxious-intellectuals-with-an-audience/> ;
   schema:name "2025-12-15, Anxious intellectuals with an audience" ;
-  schema:author &lt;https://emsenn.net/authors/emsenn/> ;
-  emsenn:Publishto "emsenn-net" ;
-  emsenn:Specialization &lt;https://emsenn.net/tags/babble/> ;
-  schema:identifier &lt;https://emsenn.net/blog/2025-12-15-anxious-intellectuals-with-an-audience/> .
+  schema:datePublished "2025-12-15" ;
+  schema:dateModified "2025-12-15" ;
+  schema:author "emsenn" ;
+  schema:identifier <https://emsenn.net/blog/2025-12-15-anxious-intellectuals-with-an-audience/> .
 

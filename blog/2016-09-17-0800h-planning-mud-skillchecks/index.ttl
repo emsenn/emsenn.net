@@ -7,11 +7,11 @@
 @prefix prov: <http://www.w3.org/ns/prov#> .
 @prefix emsenn: <https://emsenn.net/vocab#> .
 
-&lt;https://emsenn.net/blog/2016-09-17-0800h-planning-mud-skillchecks/>
-  rdf:type schema:Article ;
-  schema:url &lt;https://emsenn.net/blog/2016-09-17-0800h-planning-mud-skillchecks/> ;
+<https://emsenn.net/blog/2016-09-17-0800h-planning-mud-skillchecks/>
+  rdf:type schema:BlogPosting ;
+  schema:url <https://emsenn.net/blog/2016-09-17-0800h-planning-mud-skillchecks/> ;
   schema:name "2016-09-17, Planning mud skillchecks" ;
-  emsenn:Publishto "emsenn-net" ;
-  emsenn:Specialization &lt;https://emsenn.net/tags/babble/> ;
-  schema:identifier &lt;https://emsenn.net/blog/2016-09-17-0800h-planning-mud-skillchecks/> .
+  schema:datePublished "2016-09-17" ;
+  schema:dateModified "2016-09-17" ;
+  schema:identifier <https://emsenn.net/blog/2016-09-17-0800h-planning-mud-skillchecks/> .
 

@@ -7,13 +7,13 @@
 @prefix prov: <http://www.w3.org/ns/prov#> .
 @prefix emsenn: <https://emsenn.net/vocab#> .
 
-&lt;https://emsenn.net/blog/2025-07-22-attempting-to-install-tab/>
-  rdf:type schema:Article ;
-  schema:url &lt;https://emsenn.net/blog/2025-07-22-attempting-to-install-tab/> ;
+<https://emsenn.net/blog/2025-07-22-attempting-to-install-tab/>
+  rdf:type schema:BlogPosting ;
+  schema:url <https://emsenn.net/blog/2025-07-22-attempting-to-install-tab/> ;
   schema:name "2025-07-22, Attempting to install tab" ;
-  schema:author &lt;https://emsenn.net/authors/emsenn/> ;
-  emsenn:Publishto "emsenn-net" ;
-  emsenn:Specialization &lt;https://emsenn.net/tags/babble/> ;
-  schema:keywords &lt;https://emsenn.net/library/domains/engineering/domains/tech/domains/computing/domains/multi-user-dungeons/mud/> , &lt;https://emsenn.net/tags/gnopon-emacs/> ;
-  schema:identifier &lt;https://emsenn.net/blog/2025-07-22-attempting-to-install-tab/> .
+  schema:datePublished "2025-07-22" ;
+  schema:dateModified "2025-07-22" ;
+  schema:author "emsenn" ;
+  schema:keywords "Mud" , "GnoponEmacs" ;
+  schema:identifier <https://emsenn.net/blog/2025-07-22-attempting-to-install-tab/> .
 

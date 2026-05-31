@@ -7,12 +7,12 @@
 @prefix prov: <http://www.w3.org/ns/prov#> .
 @prefix emsenn: <https://emsenn.net/vocab#> .
 
-&lt;https://emsenn.net/blog/2025-09-20-0829h-on-oktoberfest-as-bavarian-genring-and-its-relationship-to-indianthusiasm/>
-  rdf:type schema:Article ;
-  schema:url &lt;https://emsenn.net/blog/2025-09-20-0829h-on-oktoberfest-as-bavarian-genring-and-its-relationship-to-indianthusiasm/> ;
+<https://emsenn.net/blog/2025-09-20-0829h-on-oktoberfest-as-bavarian-genring-and-its-relationship-to-indianthusiasm/>
+  rdf:type schema:BlogPosting ;
+  schema:url <https://emsenn.net/blog/2025-09-20-0829h-on-oktoberfest-as-bavarian-genring-and-its-relationship-to-indianthusiasm/> ;
   schema:name "2025-09-20, 0829h, On oktoberfest as bavarian genring and its relationship to indianthusiasm" ;
-  schema:author &lt;https://emsenn.net/authors/emsenn/> ;
-  emsenn:Publishto "emsenn-net" ;
-  emsenn:Specialization &lt;https://emsenn.net/tags/babble/> ;
-  schema:identifier &lt;https://emsenn.net/blog/2025-09-20-0829h-on-oktoberfest-as-bavarian-genring-and-its-relationship-to-indianthusiasm/> .
+  schema:datePublished "2025-09-20" ;
+  schema:dateModified "2025-09-20" ;
+  schema:author "emsenn" ;
+  schema:identifier <https://emsenn.net/blog/2025-09-20-0829h-on-oktoberfest-as-bavarian-genring-and-its-relationship-to-indianthusiasm/> .
 

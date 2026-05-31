@@ -7,13 +7,13 @@
 @prefix prov: <http://www.w3.org/ns/prov#> .
 @prefix emsenn: <https://emsenn.net/vocab#> .
 
-&lt;https://emsenn.net/blog/2025-08-28-0834h-on-the-annunciation-shooting/>
-  rdf:type schema:Article ;
-  schema:url &lt;https://emsenn.net/blog/2025-08-28-0834h-on-the-annunciation-shooting/> ;
+<https://emsenn.net/blog/2025-08-28-0834h-on-the-annunciation-shooting/>
+  rdf:type schema:BlogPosting ;
+  schema:url <https://emsenn.net/blog/2025-08-28-0834h-on-the-annunciation-shooting/> ;
   schema:name "2025-08-28, 0834h, On the annunciation shooting" ;
-  emsenn:Author &lt;https://emsenn.net/authors/emsenn/> ;
-  schema:author &lt;https://emsenn.net/authors/emsenn/> ;
-  emsenn:Publishto "emsenn-net" ;
-  emsenn:Specialization &lt;https://emsenn.net/tags/babble/> ;
-  schema:identifier &lt;https://emsenn.net/blog/2025-08-28-0834h-on-the-annunciation-shooting/> .
+  schema:datePublished "2025-08-28" ;
+  schema:dateModified "2025-08-28" ;
+  emsenn:Author "emsenn" ;
+  schema:author "emsenn" ;
+  schema:identifier <https://emsenn.net/blog/2025-08-28-0834h-on-the-annunciation-shooting/> .
 

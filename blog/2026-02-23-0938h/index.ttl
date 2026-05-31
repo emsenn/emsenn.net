@@ -7,11 +7,12 @@
 @prefix prov: <http://www.w3.org/ns/prov#> .
 @prefix emsenn: <https://emsenn.net/vocab#> .
 
-&lt;https://emsenn.net/blog/2026-02-23-0938h/>
-  rdf:type schema:Article ;
-  schema:url &lt;https://emsenn.net/blog/2026-02-23-0938h/> ;
+<https://emsenn.net/blog/2026-02-23-0938h/>
+  rdf:type schema:BlogPosting ;
+  schema:url <https://emsenn.net/blog/2026-02-23-0938h/> ;
   schema:name "2026-02-23, 0938h, Covid non-existent in some animals" ;
-  emsenn:Publishto "emsenn-net" ;
-  emsenn:Specialization &lt;https://emsenn.net/tags/babble/> ;
-  schema:identifier &lt;https://emsenn.net/blog/2026-02-23-0938h/> .
+  schema:description "New research findings show SARS-Cov-2 is non-existent in studied animal populations in northeastern United States... except Homo sapiens." ;
+  schema:datePublished "2026-02-23" ;
+  schema:dateModified "2026-02-23" ;
+  schema:identifier <https://emsenn.net/blog/2026-02-23-0938h/> .
 

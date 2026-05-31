@@ -7,10 +7,10 @@
 @prefix prov: <http://www.w3.org/ns/prov#> .
 @prefix emsenn: <https://emsenn.net/vocab#> .
 
-&lt;https://emsenn.net/legal/>
+<https://emsenn.net/legal/>
   rdf:type schema:WebPage ;
-  schema:url &lt;https://emsenn.net/legal/> ;
+  schema:url <https://emsenn.net/legal/> ;
   schema:name "Legal Disclosures and Policies" ;
   emsenn:Locates "page" ;
-  schema:identifier &lt;https://emsenn.net/legal/> .
+  schema:identifier <https://emsenn.net/legal/> .
 

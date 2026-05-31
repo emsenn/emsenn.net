@@ -7,11 +7,11 @@
 @prefix prov: <http://www.w3.org/ns/prov#> .
 @prefix emsenn: <https://emsenn.net/vocab#> .
 
-&lt;https://emsenn.net/blog/2025-07-12-0800h/>
-  rdf:type schema:Article ;
-  schema:url &lt;https://emsenn.net/blog/2025-07-12-0800h/> ;
+<https://emsenn.net/blog/2025-07-12-0800h/>
+  rdf:type schema:BlogPosting ;
+  schema:url <https://emsenn.net/blog/2025-07-12-0800h/> ;
   schema:name "2025-07-12, 0800h, Complaining about wildfire smoke" ;
-  emsenn:Publishto "emsenn-net" ;
-  emsenn:Specialization &lt;https://emsenn.net/tags/babble/> ;
-  schema:identifier &lt;https://emsenn.net/blog/2025-07-12-0800h/> .
+  schema:datePublished "2025-07-12" ;
+  schema:dateModified "2025-07-12" ;
+  schema:identifier <https://emsenn.net/blog/2025-07-12-0800h/> .
 

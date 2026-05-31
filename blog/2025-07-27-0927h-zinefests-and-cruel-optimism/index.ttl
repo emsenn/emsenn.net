@@ -7,12 +7,12 @@
 @prefix prov: <http://www.w3.org/ns/prov#> .
 @prefix emsenn: <https://emsenn.net/vocab#> .
 
-&lt;https://emsenn.net/blog/2025-07-27-0927h-zinefests-and-cruel-optimism/>
-  rdf:type schema:Article ;
-  schema:url &lt;https://emsenn.net/blog/2025-07-27-0927h-zinefests-and-cruel-optimism/> ;
+<https://emsenn.net/blog/2025-07-27-0927h-zinefests-and-cruel-optimism/>
+  rdf:type schema:BlogPosting ;
+  schema:url <https://emsenn.net/blog/2025-07-27-0927h-zinefests-and-cruel-optimism/> ;
   schema:name "2025-07-27, 0927h, Zinefests and cruel optimism" ;
-  schema:author &lt;https://emsenn.net/authors/emsenn/> ;
-  emsenn:Publishto "emsenn-net" ;
-  emsenn:Specialization &lt;https://emsenn.net/tags/babble/> ;
-  schema:identifier &lt;https://emsenn.net/blog/2025-07-27-0927h-zinefests-and-cruel-optimism/> .
+  schema:datePublished "2025-07-27" ;
+  schema:dateModified "2025-07-27" ;
+  schema:author "emsenn" ;
+  schema:identifier <https://emsenn.net/blog/2025-07-27-0927h-zinefests-and-cruel-optimism/> .
 

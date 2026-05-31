@@ -7,11 +7,11 @@
 @prefix prov: <http://www.w3.org/ns/prov#> .
 @prefix emsenn: <https://emsenn.net/vocab#> .
 
-&lt;https://emsenn.net/blog/2025-09-28-0826h-on-american-translation-of-post-to-anti/>
-  rdf:type schema:Article ;
-  schema:url &lt;https://emsenn.net/blog/2025-09-28-0826h-on-american-translation-of-post-to-anti/> ;
+<https://emsenn.net/blog/2025-09-28-0826h-on-american-translation-of-post-to-anti/>
+  rdf:type schema:BlogPosting ;
+  schema:url <https://emsenn.net/blog/2025-09-28-0826h-on-american-translation-of-post-to-anti/> ;
   schema:name "2025-09-28, 0826h, On american translation of 'post-' to 'anti-'" ;
-  emsenn:Publishto "emsenn-net" ;
-  emsenn:Specialization &lt;https://emsenn.net/tags/babble/> ;
-  schema:identifier &lt;https://emsenn.net/blog/2025-09-28-0826h-on-american-translation-of-post-to-anti/> .
+  schema:datePublished "2025-09-28" ;
+  schema:dateModified "2025-09-28" ;
+  schema:identifier <https://emsenn.net/blog/2025-09-28-0826h-on-american-translation-of-post-to-anti/> .
 

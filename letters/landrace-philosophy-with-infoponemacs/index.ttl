@@ -7,16 +7,15 @@
 @prefix prov: <http://www.w3.org/ns/prov#> .
 @prefix emsenn: <https://emsenn.net/vocab#> .
 
-&lt;https://emsenn.net/letters/landrace-philosophy-with-infoponemacs/>
+<https://emsenn.net/letters/landrace-philosophy-with-infoponemacs/>
   rdf:type schema:Article ;
-  schema:url &lt;https://emsenn.net/letters/landrace-philosophy-with-infoponemacs/> ;
-  schema:name "Landrace philosophy with InfoPonEmacs" ;
+  schema:url <https://emsenn.net/letters/landrace-philosophy-with-infoponemacs/> ;
+  schema:name "Landrace Philosophy with InfoPonEmacs" ;
   schema:description "Triage conversion of Landrace Philosophy with InfoPonEmacs.md." ;
   schema:datePublished "2017-02-17" ;
   schema:dateModified "2017-02-17" ;
   emsenn:Mirrors "https://emsenn.substack.com/p/landrace-philosophy-with-infoponemacs" ;
   emsenn:Source "/inbox/triage/Landrace Philosophy with InfoPonEmacs.md" ;
-  emsenn:Specialization "letter" ;
-  schema:keywords &lt;https://emsenn.net/library/domains/humanities/domains/philosophy/> ;
-  schema:identifier &lt;https://emsenn.net/letters/landrace-philosophy-with-infoponemacs/> .
+  schema:keywords "Philosophy" ;
+  schema:identifier <https://emsenn.net/letters/landrace-philosophy-with-infoponemacs/> .
 

@@ -7,12 +7,12 @@
 @prefix prov: <http://www.w3.org/ns/prov#> .
 @prefix emsenn: <https://emsenn.net/vocab#> .
 
-&lt;https://emsenn.net/blog/2025-08-22-2241h-babbling-about-babbles/>
-  rdf:type schema:Article ;
-  schema:url &lt;https://emsenn.net/blog/2025-08-22-2241h-babbling-about-babbles/> ;
+<https://emsenn.net/blog/2025-08-22-2241h-babbling-about-babbles/>
+  rdf:type schema:BlogPosting ;
+  schema:url <https://emsenn.net/blog/2025-08-22-2241h-babbling-about-babbles/> ;
   schema:name "2025-08-22, 2241h, Babbling about babbles" ;
-  schema:author &lt;https://emsenn.net/authors/emsenn/> ;
-  emsenn:Publishto "emsenn-net" ;
-  emsenn:Specialization &lt;https://emsenn.net/tags/babble/> ;
-  schema:identifier &lt;https://emsenn.net/blog/2025-08-22-2241h-babbling-about-babbles/> .
+  schema:datePublished "2025-08-22" ;
+  schema:dateModified "2025-08-22" ;
+  schema:author "emsenn" ;
+  schema:identifier <https://emsenn.net/blog/2025-08-22-2241h-babbling-about-babbles/> .
 

@@ -7,12 +7,12 @@
 @prefix prov: <http://www.w3.org/ns/prov#> .
 @prefix emsenn: <https://emsenn.net/vocab#> .
 
-&lt;https://emsenn.net/blog/2025-09-02-0859h-on-centering-the-making-of-dirt/>
-  rdf:type schema:Article ;
-  schema:url &lt;https://emsenn.net/blog/2025-09-02-0859h-on-centering-the-making-of-dirt/> ;
+<https://emsenn.net/blog/2025-09-02-0859h-on-centering-the-making-of-dirt/>
+  rdf:type schema:BlogPosting ;
+  schema:url <https://emsenn.net/blog/2025-09-02-0859h-on-centering-the-making-of-dirt/> ;
   schema:name "2025-09-02, 0859h, On centering the making of dirt" ;
-  schema:author &lt;https://emsenn.net/authors/emsenn/> ;
-  emsenn:Publishto "emsenn-net" ;
-  emsenn:Specialization &lt;https://emsenn.net/tags/babble/> ;
-  schema:identifier &lt;https://emsenn.net/blog/2025-09-02-0859h-on-centering-the-making-of-dirt/> .
+  schema:datePublished "2025-09-02" ;
+  schema:dateModified "2025-09-02" ;
+  schema:author "emsenn" ;
+  schema:identifier <https://emsenn.net/blog/2025-09-02-0859h-on-centering-the-making-of-dirt/> .
 

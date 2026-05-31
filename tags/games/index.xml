@@ -1,33 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Games on emsenn.net</title>
-    <link>https://emsenn.net/tags/games/</link>
-    <description>Recent content in Games on emsenn.net</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Mon, 02 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://emsenn.net/tags/games/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>MUD</title>
-      <link>https://emsenn.net/library/domains/engineering/domains/tech/domains/computing/domains/multi-user-dungeons/mud/</link>
-      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://emsenn.net/library/domains/engineering/domains/tech/domains/computing/domains/multi-user-dungeons/mud/</guid>
-      <description>&lt;p&gt;A MUD (Multi-User Dungeon, later also Multi-User Domain or Multi-User Dimension) is a text-based, multiplayer, persistent virtual environment accessed over a network. Players interact with the world and with each other through typed commands: movement, communication, object manipulation, combat, and — in many MUDs — building and programming the world itself.&lt;/p&gt;&#xA;&lt;p&gt;The first MUD was MUD1 (also called Essex MUD or British Legends), created by Roy Trubshaw and Richard Bartle at the University of Essex in 1978–1980. It ran on a DEC PDP-10 and was accessible over ARPANET. MUD1 established the core features: persistent world state, multiple simultaneous players, text-based rooms connected by exits, objects that could be picked up and used, and NPCs (non-player characters) with scripted behavior.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>World-Building as Programming</title>
-      <link>https://emsenn.net/library/domains/engineering/domains/tech/domains/computing/domains/multi-user-dungeons/world-building-as-programming/</link>
-      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://emsenn.net/library/domains/engineering/domains/tech/domains/computing/domains/multi-user-dungeons/world-building-as-programming/</guid>
-      <description>&lt;p&gt;The MUD tradition produces a distinctive insight: building a virtual world and programming a system are the same act. In a &lt;a href=&#34;https://emsenn.net/library/domains/engineering/domains/tech/domains/computing/domains/multi-user-dungeons/mud/&#34; class=&#34;link-internal&#34;&gt;MUD&lt;/a&gt;, a room is a software object. A sword is a software object. An NPC is a software object with behavior. Creating a forest means writing code that instantiates rooms with descriptions, connects them with exits, populates them with objects, and defines the rules by which players interact with them. There is no separation between &amp;ldquo;content&amp;rdquo; and &amp;ldquo;code&amp;rdquo; — the world is code, and code is the world.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Tarot card games</title>
-      <link>https://emsenn.net/library/domains/humanities/domains/divination/domains/tarot/domains/games/tarot-card-games/</link>
-      <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://emsenn.net/library/domains/humanities/domains/divination/domains/tarot/domains/games/tarot-card-games/</guid>
-      <description>&lt;p&gt;Tarot decks were historically used for card games before being widely used for&#xA;divinatory readings.&lt;/p&gt;&#xA;&lt;p&gt;These games are typically trick-taking and use the major arcana as trumps.&#xA;Different regional variants exist, often grouped under &amp;ldquo;tarot&amp;rdquo; or &amp;ldquo;tarock&amp;rdquo;&#xA;game traditions.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Games on emsenn.net</title><link>https://emsenn.net/tags/games/</link><description>Recent content in Games on emsenn.net</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 23 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://emsenn.net/tags/games/index.xml" rel="self" type="application/rss+xml"/><item><title>Planning my GTAO Empire</title><link>https://emsenn.net/blog/2025-07-23-planning-my-gtao-empire/</link><pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate><guid>https://emsenn.net/blog/2025-07-23-planning-my-gtao-empire/</guid><description>&lt;p&gt;I learned today that I could migrate my old GTAO account over, so I have. That&amp;rsquo;s pretty exciting, because it means that I have access to all the vehicles and properties that I used to have.&lt;/p&gt;
+&lt;p&gt;But, this also means that I should figure out the gameplay loop of these things - something I didn&amp;rsquo;t &lt;em&gt;really&lt;/em&gt; do when I was acquiring them, and it&amp;rsquo;s changed a lot anyway.&lt;/p&gt;
+&lt;p&gt;Querying ChatGPT about an income flow that I can do solo, it suggested that I:&lt;/p&gt;</description></item><item><title>Considering Luanti instead of Minecraft</title><link>https://emsenn.net/blog/2025-07-18-considering-luanti-instead-of-minecraft/</link><pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate><guid>https://emsenn.net/blog/2025-07-18-considering-luanti-instead-of-minecraft/</guid><description>&lt;p&gt;I realized that if I&amp;rsquo;m not playing with anyone who&amp;rsquo;s already playing, and given how weird Minecraft has gotten, in terms of the worlding, there&amp;rsquo;s no reason for me not to take a serious look at the open-source voxel games out there. I just looked at it, and Minetest has rebranded to Luanti, and after playing one of the recommended game modes, it seems like it&amp;rsquo;d definitely meet my needs for Minecraft, if not be a little more suitable - and definitely more in line with the types of ethics and values that I at least used to hold the last time I was really operating from that place.&lt;/p&gt;</description></item></channel></rss>

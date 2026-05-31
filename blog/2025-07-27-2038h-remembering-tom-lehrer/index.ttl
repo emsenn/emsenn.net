@@ -7,12 +7,12 @@
 @prefix prov: <http://www.w3.org/ns/prov#> .
 @prefix emsenn: <https://emsenn.net/vocab#> .
 
-&lt;https://emsenn.net/blog/2025-07-27-2038h-remembering-tom-lehrer/>
-  rdf:type schema:Article ;
-  schema:url &lt;https://emsenn.net/blog/2025-07-27-2038h-remembering-tom-lehrer/> ;
+<https://emsenn.net/blog/2025-07-27-2038h-remembering-tom-lehrer/>
+  rdf:type schema:BlogPosting ;
+  schema:url <https://emsenn.net/blog/2025-07-27-2038h-remembering-tom-lehrer/> ;
   schema:name "2025-07-27, 2038h, Remembering tom lehrer" ;
+  schema:datePublished "2025-07-27" ;
+  schema:dateModified "2025-07-27" ;
   emsenn:Mirrors "https://kolektiva.social/@emsenn/114928301354307184" ;
-  emsenn:Publishto "emsenn-net" ;
-  emsenn:Specialization &lt;https://emsenn.net/tags/babble/> ;
-  schema:identifier &lt;https://emsenn.net/blog/2025-07-27-2038h-remembering-tom-lehrer/> .
+  schema:identifier <https://emsenn.net/blog/2025-07-27-2038h-remembering-tom-lehrer/> .
 

@@ -7,12 +7,12 @@
 @prefix prov: <http://www.w3.org/ns/prov#> .
 @prefix emsenn: <https://emsenn.net/vocab#> .
 
-&lt;https://emsenn.net/blog/2025-10-16-1637h-looking-at-thor/>
-  rdf:type schema:Article ;
-  schema:url &lt;https://emsenn.net/blog/2025-10-16-1637h-looking-at-thor/> ;
+<https://emsenn.net/blog/2025-10-16-1637h-looking-at-thor/>
+  rdf:type schema:BlogPosting ;
+  schema:url <https://emsenn.net/blog/2025-10-16-1637h-looking-at-thor/> ;
   schema:name "2025-10-16, 1637h, Looking at thor" ;
-  schema:author &lt;https://emsenn.net/authors/emsenn/> ;
-  emsenn:Publishto "emsenn-net" ;
-  emsenn:Specialization &lt;https://emsenn.net/tags/babble/> ;
-  schema:identifier &lt;https://emsenn.net/blog/2025-10-16-1637h-looking-at-thor/> .
+  schema:datePublished "2025-10-16" ;
+  schema:dateModified "2025-10-16" ;
+  schema:author "emsenn" ;
+  schema:identifier <https://emsenn.net/blog/2025-10-16-1637h-looking-at-thor/> .
 

@@ -7,9 +7,9 @@
 @prefix prov: <http://www.w3.org/ns/prov#> .
 @prefix emsenn: <https://emsenn.net/vocab#> .
 
-&lt;https://emsenn.net/writing/blog/>
+<https://emsenn.net/writing/blog/>
   rdf:type schema:WebPage ;
-  schema:url &lt;https://emsenn.net/writing/blog/> ;
+  schema:url <https://emsenn.net/writing/blog/> ;
   schema:name "emsenn's Babble Log" ;
-  schema:identifier &lt;https://emsenn.net/writing/blog/> .
+  schema:identifier <https://emsenn.net/writing/blog/> .
 
