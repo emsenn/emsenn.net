@@ -1,8 +1,17 @@
 {
-  "name": "@emsenn/frontstage",
+  "name": "@emsweb/frontstage",
   "version": "0.1.0",
   "private": true,
   "keywords": [
     "sovereign-state-enterprise"
-  ]
+  ],
+  "x-semiotic-voxel": {
+    "profile": "org.harmonious-union.semiotic-voxel.v1",
+    "owner": "emsweb",
+    "kind": "inert-material",
+    "actor": "urn:ame:frontstage",
+    "operations": [],
+    "capabilities": [],
+    "package": "@emsweb/frontstage"
+  }
 }
