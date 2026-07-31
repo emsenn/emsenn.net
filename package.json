@@ -4,14 +4,5 @@
   "private": true,
   "keywords": [
     "sovereign-state-enterprise"
-  ],
-  "x-semiotic-voxel": {
-    "profile": "org.harmonious-union.semiotic-voxel.v1",
-    "owner": "emsweb",
-    "kind": "inert-material",
-    "actor": "urn:ame:frontstage",
-    "operations": [],
-    "capabilities": [],
-    "package": "@emsweb/frontstage"
-  }
+  ]
 }
