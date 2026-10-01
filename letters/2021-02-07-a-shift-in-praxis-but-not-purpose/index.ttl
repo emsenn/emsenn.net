@@ -14,6 +14,5 @@
   schema:datePublished "2021-02-07" ;
   schema:dateModified "2021-02-07" ;
   schema:author "emsenn" ;
-  emsenn:Mirrors "https://emsenn.substack.com/p/a-shift-in-praxis-but-not-purpose" ;
   schema:identifier <https://emsenn.net/letters/2021-02-07-a-shift-in-praxis-but-not-purpose/> .
 
